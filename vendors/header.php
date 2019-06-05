@@ -13,9 +13,10 @@
   <input type="checkbox" id="nav-toggle" class="nav-toggle">
   <nav>
     <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="../index.php">Home</a></li>
+      <li><a href="About.php">About</a></li>
       <li><a href="#">Blog</a></li>
+      <li><a href="Gallary.php">Gallary</a></li>
       <li><a href="#">Contact</a></li>
     </ul>
   </nav>
