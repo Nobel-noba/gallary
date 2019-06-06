@@ -8,7 +8,7 @@
     </style>
 </head>
     <div class="content">
-        <h2></h2>
+        <h2>About Me</h2>
         
 
         <p>
@@ -19,9 +19,8 @@
             
 Vestibulum congue consectetur libero, quis semper dolor semper vitae. Aliquam nec neque sed urna commodo aliquam nec vitae nisi. Fusce non pharetra magna. Integer luctus mauris augue. Donec condimentum lacus ac nunc facilisis fermentum. In viverra non nisl eget vulputate. Vestibulum placerat, justo eu tincidunt aliquam, justo massa efficitur lacus, quis facilisis eros nibh eu turpis.
         </p>
-        <p>
         
-        </p>
+    <h2>About Photography</h2>
         <p>
             
 Mauris ut volutpat ante. Maecenas tincidunt ante quis nisi posuere hendrerit. In vitae pretium tellus, vel pellentesque nunc. Nullam ac congue tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce vitae odio nec quam maximus vulputate ac in massa. In semper volutpat est, euismod mattis tellus. Donec mollis semper rutrum.
@@ -31,7 +30,9 @@ Mauris ut volutpat ante. Maecenas tincidunt ante quis nisi posuere hendrerit. In
         
 Nunc malesuada augue eget arcu scelerisque, vel fermentum sapien vehicula. Cras pretium non sapien volutpat vehicula. Nullam eu quam pulvinar, luctus mauris eu, eleifend ligula. Pellentesque at nulla ut dolor dignissim finibus ut ac dui. Mauris ut augue ultricies, viverra augue ut, bibendum enim. Integer tristique eget ante eu semper. Donec vestibulum porta sem a sagittis. Ut ligula risus, dictum ac arcu fermentum, facilisis dictum neque.
         </p>
+        <h2>About mother Neature</h2>
         <p>
+        
         
 Integer ultrices consectetur massa. In in turpis id metus suscipit hendrerit. Cras sit amet nisl at nunc venenatis tristique faucibus non felis. Praesent a ullamcorper dui. Pellentesque feugiat rutrum vestibulum. Sed venenatis condimentum lacus, sed sagittis tortor ullamcorper vitae. Vivamus volutpat odio ac faucibus aliquam. Integer eget varius libero, ac sollicitudin sapien. Pellentesque tortor ipsum, scelerisque cursus tellus ac, luctus lacinia eros. Proin pretium urna eu pulvinar volutpat. Nullam bibendum, magna nec tempor vulputate, ante lacus ullamcorper libero, ac iaculis dolor nisl ac odio. Nulla nec nulla enim.
 

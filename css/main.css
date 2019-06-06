@@ -14,18 +14,16 @@ body {
 	background: #222;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 400;
-    
 }
 
 .content {
-  height: 200vh;
-  background-image: url(../vendors/src/images/BestHDWallpapersPack725_77.jpg);
-    color: aliceblue;
-  background-color: #333;
+  height: 100vh;
+  background-image:url(../src/images/29955.jpg);
   background-blend-mode: multiply;
   background-size: cover;
   display: grid;
   place-items: center;
+    padding: 0;
 }
 
 /* navigation styles start here */

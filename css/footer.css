@@ -5,7 +5,6 @@
 	width: 100%;
 	text-align: left;
 	font: bold 16px sans-serif;
-
 	padding: 55px 50px;
 }
 
@@ -22,7 +21,7 @@
 	width: 40%;
 }
 
-/* The company logo */
+/* logo */
 
 .footer-distributed h3{
 	color:  #ffffff;
@@ -143,7 +142,7 @@
 	margin-bottom: 5px;
 }
 
-/* If you don't want the footer to be responsive, remove these media queries */
+/* for the responsiveness of the page */
 
 @media (max-width: 880px) {
 
